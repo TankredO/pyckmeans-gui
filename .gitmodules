@@ -1,0 +1,6 @@
+[submodule "pyckmeans-gui-backend"]
+	path = pyckmeans-gui-backend
+	url = https://github.com/TankredO/pyckmeans-gui-backend
+[submodule "pyckmeans-gui-frontend"]
+	path = pyckmeans-gui-frontend
+	url = https://github.com/TankredO/pyckmeans-gui-frontend
